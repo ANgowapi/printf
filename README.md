@@ -1,2 +1,5 @@
 printf group project
-Authors: Aphiwe Ngowapi and Brenda Wogbe
+
+Authors: Aphiwe Ngowapi
+
+Brenda Wogbe
