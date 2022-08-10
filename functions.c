@@ -162,7 +162,8 @@ int count;
 UNUSED(buffer);
 UNUSED(flags);
 UNUSED(width);
-UNUSED(precision);UNUSED(size);
+UNUSED(precision);
+UNUSED(size);
 
 n = va_arg(types, unsigned int);
 m = 2147483648; /* (2 ^ 31) */
