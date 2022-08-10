@@ -1,9 +1,9 @@
 # 0x11. C - printf
   
 ## Authors:
- Ololade Akinloye
+Brenda Wogbe
  
- Adebusola-Ayo-Olaoye
+ Aphiwe Ngowapi
  
 # Description
  Concept of this project is to understand the framework of team project and illustrate the printf() c
